@@ -33,4 +33,16 @@
         app:layout_constraintVertical_bias="0.366"
         app:srcCompat="@drawable/ic_baseline_fingerprint_24" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="205dp"
+        android:layout_height="73dp"
+        android:text="Secure Pass"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
