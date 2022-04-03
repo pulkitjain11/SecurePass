@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="260dp"
         android:layout_height="96dp"
-        android:text="Login using Biometric !!!"
+        android:text="@string/login_using_biometric"
         android:textAlignment="center"
         android:textColor="@color/teal_700"
         android:textSize="25sp"
