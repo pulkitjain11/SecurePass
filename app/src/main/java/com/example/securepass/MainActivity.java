@@ -75,6 +75,8 @@ public class MainActivity extends AppCompatActivity {
                 super.onAuthenticationSucceeded(result);
                 Toast.makeText(getApplicationContext(),
                         "Authentication succeeded!", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(MainActivity.this,Home_Page.class));
+
             }
 
             @Override
