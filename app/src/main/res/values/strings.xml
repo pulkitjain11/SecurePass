@@ -2,4 +2,7 @@
     <string name="app_name">SecurePass</string>
     <string name="login_using_biometric">Login using Biometric !!!</string>
     <string name="home_page">Home Page</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="save_password">Save Password</string>
+    <string name="enter_username">Enter Username</string>
 </resources>
